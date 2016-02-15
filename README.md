@@ -1,6 +1,6 @@
 # vim-python-indent
 
-Copied verbatim from a [script found on vim.org](http://www.vim.org/scripts/download_script.php?src_id=4316) by Eric McSween.
+Copied verbatim from a [script found on vim.org](http://www.vim.org/scripts/script.php?script_id=974) by Eric McSween.
 
 ## vim-plug
 
